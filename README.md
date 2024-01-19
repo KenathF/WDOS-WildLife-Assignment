@@ -1,1 +1,1 @@
-# WDOS-WildLife-Assignment
+# WildLife-SriLanka

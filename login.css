@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/asian-elephant-7112149_1920.jpg);
+      background-size: cover;
+      background-position: center;
+  }
+  
+  .login-container {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 5px;
+    background-color: #fff; /* Optional: Set background color */
+  }
+  
+  .login-container h2 {
+    text-align: center;
+  }
+  
+  .login-container form {
+    margin-top: 20px;
+  }
+  
+  .login-container label,
+  .login-container input,
+  .login-container button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .login-container input {
+    width: calc(100% - 20px); /* Adjust width to accommodate padding */
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .login-container button {
+    width: 100%;
+    padding: 8px 0;
+    background-color: #007bff; /* Optional: Set button background color */
+    color: #fff; /* Optional: Set button text color */
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .login-container button:hover {
+    background-color: #0056b3; /* Optional: Set button hover background color */
+  }
+  

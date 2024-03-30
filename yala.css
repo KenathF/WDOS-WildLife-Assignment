@@ -76,32 +76,32 @@ p{
 
 }
 
-.yala-image-gallery{
+.yala-image-gallery {
     display: flex;
     flex-wrap: wrap;
-    flex-direction:row;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
+    /* padding: 0 20px 20px */
 }
 
-.single-image{
-    padding:0 20px 20px;
-
+.single-image {
+    padding: 0 20px 20px
 }
 
-.yala-image-gallery img{
+.yala-image-gallery img {
     width: 300px;
     height: 200px;
     object-fit: cover;
-
+    padding: 0 20px 20px
 }
 
-
-.yala-image-gallery img:hover{
-    transition: 0.2;
+.yala-image-gallery img:hover {
+    transition: 0.2s; /* Added 's' to specify seconds */
     cursor: pointer;
     transform: scale(1.05);
 }
+
 
 
 

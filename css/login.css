@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/asian-elephant-7112149_1920.jpg);
+    background-image: url(../images/asian-elephant-7112149_1920.jpg);
       background-size: cover;
       background-position: center;
   }

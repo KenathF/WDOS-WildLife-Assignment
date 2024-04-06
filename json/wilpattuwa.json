@@ -1,0 +1,23 @@
+{
+    "sec1Data": {
+      "title": "Introduction to Wilpattu",
+      "description": "Located on the northwest coast of Sri Lanka, Wilpattu National Park is a pristine natural reserve known for its untamed beauty and diverse wildlife. Established in 1938, it is the largest national park in the country, spanning over 1,300 square kilometers of lush landscapes and ancient ruins."
+    },
+    "sec2Data": {
+      "title": "Key Attractions",
+      "description": "Wilpattu National Park unfolds a tapestry of diverse ecosystems, encompassing natural lakes, sprawling sand dunes, and dense forests that collectively nurture a rich array of flora and fauna. Echoing the allure of Yala, Wilpattu is celebrated for its leopard population, enticing visitors with the prospect of encountering these elusive creatures amidst their natural habitat. Adding a layer of cultural significance, the park beckons exploration of its historical treasures, with ancient ruins such as Kudiramalai Point offering a glimpse into the park's storied past and enriching the visitor experience with a touch of heritage.",
+      "images": [
+        "../images/deer wilpattu.jpg",
+        "../images/wilpattu bird.jpg",
+        "../images/wilpattu image gallery/sloth bear.jpg",
+        "../images/wilpattu image gallery/wilpattu-national-park -monkey.jpg",
+        "../images/wilpattu image gallery/wilpattu bird.jpg",
+        "../images/wilpattu image gallery/wilpattu-national-park.jpg"
+      ]
+    },
+    "sec3Data": {
+      "title": "Plan your visit",
+      "description": "To plan your visit to Wilpattu National Park, refer to the official website for up-to-date information on entry fees, safari schedules, and accommodations. Immerse yourself in the tranquility of nature and the thrill of encountering diverse wildlife in this captivating national park"
+    }
+  }
+  

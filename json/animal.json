@@ -1,0 +1,49 @@
+{
+    "flexboxData": [
+      {
+        "image": "../images/sri-lankan-junglefawl.webp",
+        "name": "Sri Lankan Junglefowl",
+        "description": "The Sri Lankan junglefowl (Gallus lafayettii) is a member of the Galliformes bird order which is endemic to Sri Lanka, where it is the national bird. It is closely related to the Red junglefowl."
+      },
+      {
+        "image": "../images/2560px-sri-lankan-sloth-bear-photographed-in-wilpattu-national-park.webp",
+        "name": "Sri Lankan Sloth Bear",
+        "description": "The Sri Lankan sloth bear (Melursus ursinus inornatus) is a subspecies of the sloth bear which is found mainly in lowland dry forests in the island of Sri Lanka."
+      },
+      {
+        "image": "../images/2560px-blue-magpie-281663453729329.jpg",
+        "name": "Sri Lanka Blue Magpie",
+        "description": "The Sri Lanka blue magpie or Ceylon magpie (Urocissa ornata) is a brightly coloured member of the family Corvidae, found exclusively in Sri Lanka."
+      },
+      {
+        "image": "../images/800px-sri-lanka-purple-faced-leaf-monkeyjpg.webp",
+        "name": "Purple-faced Langur",
+        "description": "The Purple-faced Langur (Trachypithecus vetulus), also known as the Purple-faced leaf monkey, is a long-tailed arboreal monkey endemic to Sri Lanka."
+      },
+      {
+        "image": "../images/crimson-backed-flameback.webp",
+        "name": "Red-backed Flameback",
+        "description": "The Red-backed flameback, Lesser Sri Lanka flameback, Sri Lanka red-backed woodpecker or Ceylon red-backed woodpecker (Dinopium psarodes) is a species of bird endemic to Sri Lanka."
+      },
+      {
+        "image": "../images/sri-lankan-krait.webp",
+        "name": "Sri Lankan Krait",
+        "description": "Bungarus ceylonicus, the Ceylon krait or Sri Lankan krait, is a species of venomous elapid snake which is endemic to the island Sri Lanka, locally known as මුදු කරවලා (mudu karawalaa)."
+      }
+    ],
+    "sec2Data": {
+      "locations": [
+        {
+          "image": "../images/yala-nn.jpg",
+          "name": "Yala National Park",
+          "description": "Yala National Park is the second-largest national park in Sri Lanka, located in the southeast part of the country. It is renowned for its diverse wildlife, including elephants, leopards, and a variety of bird species. The park is a popular destination for safari tours, offering visitors the chance to experience the beauty of Sri Lanka's natural landscapes and observe its rich biodiversity."
+        },
+        {
+          "image": "../images/wilpattu-nn.jpg",
+          "name": "Wilpattu National Park",
+          "description": "Wilpattu National Park is a sprawling wilderness in the northwest of Sri Lanka, named after the 'wilus' - a network of natural lakes that dot the landscape. It's the island's largest national park, encompassing over 130,000 hectares of dry lowland forest, grasslands, and wetlands."
+        }
+      ]
+    }
+  }
+  

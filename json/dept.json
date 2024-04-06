@@ -1,0 +1,37 @@
+{
+  "flexboxData": [
+    {
+      "title": "Hakgala SNR",
+      "description": "A strict nature reserve (IUCN category) is one of the two highest categories of protected areas recognized by the World Commission on Protected Areas (WCPA). These areas are mainly declared for the purpose of research and for preservation and protection of large, unspoiled areas of wilderness. The primary purpose of such areas is to preserve biodiversity as essential reference areas for scientific work and environmental monitoring.",
+      "imageClass": "img-1"
+    },
+    {
+      "title": "Ritigala SNR",
+      "description": "Ritigala SNR's location in the dry zone, as well as its potential importance as a terminal forest bordering the vast agricultural lands south of Anuradhapura, made it a priority location for a leopard occupancy survey. A total of 19 mammal species were detected including numerous potential leopard prey species. Photo-captured carnivore species included fishing cat, golden jackal, and golden palm civet",
+      "imageClass": "img-2"
+    },
+    {
+      "title": "Wasgamuwa National Park",
+      "description": "The Wasgamuwa National Park spanning 36,900 hectares is situated in the Matale / Polonnaruwa district, 225 km away from the City of Colombo and just 10km from the Northern boundary.The Park which was originally a nature reserve was elevated to the status of a National Park in 1984 with the objective of providing a safe refuge for the wildlife displaced as a result of the Mahaweli Development Project.",
+      "imageClass": "img-3"
+    },
+    {
+      "title": "Gal Oya National Park",
+      "description": "The Gal Oya National Park (NP), established in 1954, is a vast area of protected land (25 900ha) that resides within the Gal Oya/Nilgala Complex.  It serves as the main catchment area for one of its central features, the Senanayake Samudraya Reservoir – the largest reservoir in Sri Lanka.   Comprising of extensive evergreen monsoon forest which forms a vital watershed around the reservoir, the NP is also the only place in Sri Lanka in which habitats that resemble true savannah can be found.",
+      "imageClass": "img-4"
+    },
+    {
+      "title": "Maduru Oya National park",
+      "description": "Maduru Oya National Park was declared as the 5th National Park in Sri Lanka on 09th November 1983, covering the catchment areas of 05 reservoirs developed under the Accelerated Mahaweli Development Project. The main objective of the Maduru Oya National Park is to provide habitat to the displaced animal communities and to protect the catchment areas of the water sources of Maduru Oya, NDK, Ulhitiya, Rathkida and Hennanigala Reservoirs. Maduru Oya National Park covers an area of ​​58,850 hectares.",
+      "imageClass": "img-5"
+    }
+  ],
+  "deptMapData": {
+    "title": "Locate Us:",
+    "mapURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15843.782988928731!2d79.9198057!3d6.8970927!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae250aa85489b1f%3A0xd8773339b6b43dbb!2sDepartment%20of%20Wildlife%20Conservation!5e0!3m2!1sen!2slk!4v1705317074059!5m2!1sen!2slk"
+  },
+  "headSecData": {
+    "title": "Department of Wildlife conservation",
+    "content": "The Department of Wildlife Conservation Conserves the Biodiversity of Sri Lanka. Every individual species is provided legal protection through the Fauna and Flora Protection Ordinance No 2 of 1937. Habitats and the associated biodiversity are protected through a network of Protected Areas. International Trade of Wild Species are Regulated both using the provisions Fauna and Flora Protection Ordinance a the Provisions of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)."
+  }
+}

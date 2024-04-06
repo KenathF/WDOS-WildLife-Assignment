@@ -1,0 +1,46 @@
+{
+  "sec1Data": {
+    "title": "Top 3 venues to spot Sri Lankan leopard",
+    "spots": [
+      {
+        "image": "../images/leopard kumana.jpg",
+        "name": "Kumana National Park",
+        "description": "Kumana National Park, situated in the eastern part of Sri Lanka, is a lesser-known but significant leopard spotting location. The park's unique combination of mangroves, lagoons, and scrublands provides an ideal environment for leopards. Visitors to Kumana have the opportunity to witness leopards in a tranquil and less crowded setting."
+      },
+      {
+        "image": "../images/yala leopard.jpg",
+        "name": "Yala National Park",
+        "description": "Yala National Park is renowned for its diverse ecosystems and is home to a significant population of Sri Lankan leopards. It has the highest density of leopards anywhere on the island. The park's varied landscape, comprising dense forests, grasslands, and coastal areas, provides an ideal habitat for leopards."
+      },
+      {
+        "image": "../images/wilpattu-leopard.jpg",
+        "name": "Wilpattu National Park",
+        "description": "Wilpattu, the largest national park in Sri Lanka, is another vital venue for Sri Lankan leopards. Its mix of natural lakes, scrublands, and dense woodlands offer a diverse environment that supports a thriving leopard population."
+      }
+    ]
+  },
+  "sec2Data": {
+    "title": "Threats to leopards",
+    "threats": [
+      {
+        "title": "1. Habitat Loss and Fragmentation",
+        "image": "../images/Deforestation-In-Sinharaja.webp",
+        "description": "Habitat loss and fragmentation occur when natural landscapes are converted into agricultural areas, urban developments, or other human activities. This is a significant threat to the Sri Lankan leopard, as it disrupts their traditional habitats and limits their ability to roam and hunt.",
+        "consequences": "The consequences of habitat loss and fragmentation include a reduction in the available space for leopards, isolation of populations, increased competition for resources, and a higher risk of inbreeding. These factors collectively threaten the long-term survival and genetic diversity of the Sri Lankan leopard.",
+        "reduceMethods": "Conservation efforts focus on preserving and restoring leopard habitats. This involves creating protected areas, establishing wildlife corridors to connect fragmented habitats, and implementing sustainable land-use practices. Additionally, community awareness and involvement are crucial to ensure that local populations understand the importance of preserving leopard habitats."
+      }
+    ]
+  },
+  "sec3Data": {
+    "title": "Threats to leopards",
+    "threats": [
+      {
+        "title": "2. Human-Wildlife Conflict",
+        "image": "../images/human-wildlife conflict.jpg",
+        "description": "Human-wildlife conflict arises when leopards come into conflict with human activities, particularly in areas where human settlements expand into leopard territories. The conflict often occurs due to predation on domestic livestock by leopards, leading to retaliatory killings by affected communities.",
+        "consequences": "The consequences of human-wildlife conflict include the loss of both leopard and human lives, negative perceptions of leopards, and potential impacts on local ecosystems. Retaliatory killings can result in a decline in the leopard population, disrupting the balance of the ecosystem.",
+        "reduceMethods": "To mitigate human-wildlife conflict, conservation efforts employ a combination of strategies. These include the implementation of secure livestock husbandry practices, the development of community-based conservation programs, and the use of non-lethal methods to deter leopards from preying on domestic animals. Education and awareness programs are also crucial."
+      }
+    ]
+  }
+}

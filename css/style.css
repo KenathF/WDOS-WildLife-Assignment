@@ -376,3 +376,53 @@ footer{
     background-color: #45a049;
   }
   
+  /* Style for modal overlay */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style for modal content */
+  .modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Style for form elements */
+  .modal-content label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .modal-content input[type="text"],
+  .modal-content input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .modal-content button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .modal-content button:last-child {
+    background-color: #dc3545;
+  }
+  

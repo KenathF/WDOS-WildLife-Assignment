@@ -1,28 +1,27 @@
 {
-    "sec2Data": {
-      "heading": "Discover the wonders of Sri Lankan Wildlife",
-      "p1": "An exploration of the rich biodiversity of Sri Lanka, The Sri Lankan wildlife tourism sector, given the diverse range of wildlife, many of which are endemic, is well placed to attract high yield tourists"
+  "sec2Data": {
+    "heading": "Discover the wonders of Sri Lankan Wildlife",
+    "p1": "An exploration of the rich biodiversity of Sri Lanka, The Sri Lankan wildlife tourism sector, given the diverse range of wildlife, many of which are endemic, is well placed to attract high yield tourists"
+  },
+  "sec3Data": {
+    "birdpic": {
+      "title": "Bird Paradise",
+      "des": "Sri Lanka is a birdwatcher's paradise, renowned for its rich avian diversity and unique species that inhabit various ecosystems across the island. The country's geographic location, diverse landscapes, and a range of climates contribute to the incredible variety of birdlife.",
+      "image": "./images/2560px-blue-magpie-281663453729329.jpg"
     },
-    "sec3Data": {
-      "birdpic": {
-        "title": "Bird Paradise",
-        "description": "Sri Lanka is a birdwatcher's paradise, renowned for its rich avian diversity and unique species that inhabit various ecosystems across the island. The country's geographic location, diverse landscapes, and a range of climates contribute to the incredible variety of birdlife.",
-        "image": "./images/2560px-blue-magpie-281663453729329.jpg"
-      },
-      "aquatic": {
-        "title": "Aquatic Life",
-        "description": "The coastal areas of Sri Lanka boast an array of marine life, discover the beauty of the ocean and its fascinating inhabitants",
-        "image": "./images/marine life.jpeg"
-      },
-      "Flora": {
-        "title": "Floral Fauna",
-        "description": "Sri Lanka is home to a variety of unique plant and animal species, explore the lush greenery and vibrant wildlife that defines this region.",
-        "image": "./images/flora.jpeg"
-      }
+    "aquatic": {
+      "title": "Aquatic Life",
+      "des": "The coastal areas of Sri Lanka boast an array of marine life, discover the beauty of the ocean and its fascinating inhabitants",
+      "image": "./images/marine life.jpeg"
     },
-    "sec4Data": {
-      "list1": ["Rich biodiversity", "Diverse ecosystems", "Endangered species conservation", "Unique Wildlife experience"],
-      "list2": ["Yala National Park", "Wasgamuwa National Park", "Wilpattu National Park", "Uda Walawe National Park", "Bundala National Park", "Gal Oya National Park", "Maduru Oya National Park"]
+    "Flora": {
+      "title": "Floral Fauna",
+      "des": "Sri Lanka is home to a variety of unique plant and animal species, explore the lush greenery and vibrant wildlife that defines this region.",
+      "image": "./images/flora.jpeg"
     }
+  },
+  "sec4Data": {
+    "list1": ["Rich biodiversity", "Diverse ecosystems", "Endangered species conservation", "Unique Wildlife experience"],
+    "list2": ["Yala National Park", "Wasgamuwa National Park", "Wilpattu National Park", "Uda Walawe National Park", "Bundala National Park", "Gal Oya National Park", "Maduru Oya National Park"]
   }
-  
+}

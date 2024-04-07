@@ -18,7 +18,48 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
-  
+    <style>
+      /* Style for edit forms */
+      #editForms {
+        background-color: #f9f9f9;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-bottom: 20px;
+      }
+      
+      #editForms h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+      }
+      
+      #editForms label {
+        font-weight: bold;
+      }
+      
+      #editForms input[type="text"],
+      #editForms textarea {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+      
+      #editForms button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      
+      #editForms button:hover {
+        background-color: #45a049;
+      }
+    </style>
 </head>
 <body>
   <nav class="navbar">
@@ -62,6 +103,7 @@
     </div>
   </section>
   <br>
+<!-- footer part -->
   <footer>
     <div class="footercontainer">
       <div class="social-icons">
@@ -72,7 +114,7 @@
         <a href=""><i class="fa-brands fa-google-plus"></i></a>
       </div>
       <div class="footernav">
-        <!-- Newsletter Subscription Form -->
+ <!-- Newsletter Sub part -->
         <div class="newsletter">
           <h3>Subscribe to Our Newsletter</h3>
           <form id="newsletterForm">
@@ -90,35 +132,40 @@
       </div>
     </div>
   </footer>
+  <!-- Edit Forms -->
+  <div id="editForms" style="display: none;">
+    <!-- Section 2 Edit Form -->
+    <div id="sec2EditForm">
+      <h2>Edit Section 2</h2>
+      <label for="sec2Heading">Heading:</label><br>
+      <input type="text" id="sec2Heading"><br>
+      <label for="sec2P1">Paragraph:</label><br>
+      <textarea id="sec2P1"></textarea><br>
+      <button onclick="saveSec2Changes()">Save Changes</button>
+    </div>
+  
+  <div id="sec3EditForm" >
+    <h2>Edit Section 3</h2>
+    <!-- Add input fields or text areas for editing section 3 content -->
+    <input type="text" id="sec3Input1" placeholder="Edit Section 3 Content 1"><br>
+    <input type="text" id="sec3Input2" placeholder="Edit Section 3 Content 2"><br>
+    <button onclick="saveSec3Changes()">Save Changes</button>
+  </div>
+
+  <div id="sec4EditForm">
+    <h2>Edit Section 4</h2>
+    <!-- Add input fields or text areas for editing section 4 content -->
+    <input type="text" id="sec4Input1" placeholder="Edit Section 4 Content 1"><br>
+    <input type="text" id="sec4Input2" placeholder="Edit Section 4 Content 2"><br>
+    <button onclick="saveSec4Changes()">Save Changes</button>
+  </div>
+</div>
+  <!-- Button to trigger edit forms -->
+  <button id="editButton" onclick="showEditForms()">Edit Content</button>
+
+  <!-- JavaScript -->
   <script src="./sccript.js"></script>
   <script src="./functions/indexFun.js"></script>
-  <script>
-    var role = sessionStorage.getItem('role');
-
-    // Function to toggle login/logout link
-    function toggleLoginLogout() {
-      var loginLogoutLink = document.getElementById('loginLogoutLink');
-      if (role) {
-        // If user is logged in
-        loginLogoutLink.innerHTML = '<a href="#">Logout</a>'; // Modify the link text or URL as needed
-        loginLogoutLink.addEventListener('click', function() {
-          sessionStorage.clear();
-          window.location.href = './index.html'; // Redirect to appropriate page after logout
-        });
-      } else {
-        // If user is not logged in
-        loginLogoutLink.innerHTML = '<a href="./html/login.html">Login</a>'; // Modify the link text or URL as needed
-      }
-    }
-
-    // Call the function to toggle login/logout link
-    toggleLoginLogout();
-
-    // Display admin link if user is admin
-    if (role === 'admin') {
-      var adminLink = document.getElementById('adminLink');
-      adminLink.style.display = 'block';
-    }
-  </script>
+  
 </body>
 </html>

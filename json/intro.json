@@ -1,23 +1,24 @@
 {
     "sec1Data": {
       "title": "Sinharaja Rainforest Reserve",
-      "description": "Sinharaja Rainforest, a UNESCO World Heritage Site, is a biodiversity hotspot known for its rich flora and fauna Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians.",
+      "des": "Sinharaja Rainforest, a UNESCO World Heritage Site, is a biodiversity hotspot known for its rich flora and fauna Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians.",
       "images": ["../images/Sinharaja-Rain-Forest-1.jpg", "../images/giant-squirrel.jpg"],
-      "mapURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d507520.2850638744!2d80.468156!3d6.393713!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3e76bd109d45f%3A0x8c0ef1010649701b!2sSinharaja%20Forest%20Reserve!5e0!3m2!1sen!2sus!4v1705228468081!5m2!1sen!2sus"
+      "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d507520.2850638744!2d80.468156!3d6.393713!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3e76bd109d45f%3A0x8c0ef1010649701b!2sSinharaja%20Forest%20Reserve!5e0!3m2!1sen!2sus!4v1705228468081!5m2!1sen!2sus"
     },
     "sec2Data": {
       "title": "Horton Plains National Park",
-      "description": "Horton Plains, with its vast grasslands and unique landscapes, offers sightings of diverse wildlife, including the elusive leopard. The park is also famous for the World's End viewpoint.Horton Plains is a beautiful and scenic plateau located in the central highlands of Sri Lanka. It is a part of the Central Highlands UNESCO World Heritage site and is situated in the Nuwara Eliya District. Horton Plains is known for its unique ecosystem, rich biodiversity, and stunning landscapes.",
+      "des": "Horton Plains, with its vast grasslands and unique landscapes, offers sightings of diverse wildlife, including the elusive leopard. The park is also famous for the World's End viewpoint.Horton Plains is a beautiful and scenic plateau located in the central highlands of Sri Lanka. It is a part of the Central Highlands UNESCO World Heritage site and is situated in the Nuwara Eliya District. Horton Plains is known for its unique ecosystem, rich biodiversity, and stunning landscapes.",
       "images": ["../images/horton planes.jpg", "../images/horton planes 2.jpg"],
-      "mapURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.696154043711!2d80.802333!3d6.809446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2sus!4v1705239998256!5m2!1sen!2sus"
+      "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.696154043711!2d80.802333!3d6.809446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2sus!4v1705239998256!5m2!1sen!2sus"
     },
     "sec3Data": {
       "title": "Minneriya National Park",
-      "description": "Minneriya National Park is a wildlife sanctuary and national park in Sri Lanka, located in the North Central Province. It is situated close to the town of Habarana and is part of the larger Cultural Triangle region. The park is renowned for its diverse ecosystems, wildlife, and as a gathering place for the largest Asian elephant gathering known as 'The Gathering.'",
+      "des": "Minneriya National Park is a wildlife sanctuary and national park in Sri Lanka, located in the North Central Province. It is situated close to the town of Habarana and is part of the larger Cultural Triangle region. The park is renowned for its diverse ecosystems, wildlife, and as a gathering place for the largest Asian elephant gathering known as 'The Gathering.'",
       "images": ["../images/minneriya.jpg", "../images/minneriya2.jpg"],
-      "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.837869019689!2d80.84209537454855!3d8.015649604028297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afb6009a20be05d%3A0xa4d046f2f06b05f5!2sMinneriya%20National%20Park!5e0!3m2!1sen!2slk!4v1705240516139!5m2!1sen!2slk"
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.837869019689!2d80.84209537454855!3d8.015649604028297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afb6009a20be05d%3A0xa4d046f2f06b05f5!2sMinneriya%20National%20Park!5e0!3m2!1sen!2slk!4v1705240516139!5m2!1sen!2slk"
     },
-    "summaryTableData": {
+    "tableData": {
+      "title": "Animals can be found",
       "locations": ["Sinharaja", "Horton plains", "Minneriya"],
       "animals": [
         {
@@ -36,7 +37,7 @@
           "image": "../images/mother-and-baby-elephant.jpg"
         }
       ],
-      "summary": "Explore the unique biodiversity of Sri Lanka by visiting these diverse wildlife locations."
+      "p1": "Explore the unique biodiversity of Sri Lanka by visiting these diverse wildlife locations."
     }
   }
   

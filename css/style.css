@@ -426,3 +426,43 @@ footer{
     background-color: #dc3545;
   }
   
+  /* Style for edit forms */
+  #editForms {
+      background-color: #f9f9f9;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-bottom: 20px;
+  }
+
+  #editForms h2 {
+      font-size: 20px;
+      margin-bottom: 10px;
+  }
+
+  #editForms label {
+      font-weight: bold;
+  }
+
+  #editForms input[type="text"],
+  #editForms textarea {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+  }
+
+  #editForms button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+
+  #editForms button:hover {
+      background-color: #45a049;
+  }
